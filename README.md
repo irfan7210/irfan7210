@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Mohamad Irfan
-- 👀 I’m interested in Data Science ...
-- ✨ I’m currently working as a freelancer tutor
-- 🌱 I’m currently learning Data SCience to strengthing myself...
-- 💞️ I’m looking for an opportunity in an organization where acquired skills and education will be utilized towards continuous growth and advancement....
+- 👀 I’m interested in Data Science , Data Analyst and Business Analyst.
+- ✨ I’m currently Data Science Trainee in AlmaBetter.
+- 💞️Mechanical engineering graduate with ed-tech experience as an academic
+content developer. Trained in data science with Almabetter, eager to drive business growth through data-driven decisions and innovation. Passionate
+about contributing to companies' success and staying ahead of the curve.
 - 📫 How to reach me ...
 - 📧 E-Mail: md.irfan0143@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mohammad-irfan-64a540186/
